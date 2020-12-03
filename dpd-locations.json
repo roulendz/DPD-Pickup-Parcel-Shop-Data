@@ -1,71 +1,5 @@
 [
   {
-    "parcelShopId": "EE10077",
-    "legacyShopId": "110077",
-    "parcelShopType": "ParcelShop",
-    "companyName": "Tallinna Nõmme Loodusand",
-    "companyShortName": "Tallinna Nõmme Loodusand",
-    "street": "Jaama",
-    "houseNo": "3",
-    "addressLine2": "",
-    "countryCode": "EE",
-    "zipCode": "11621",
-    "city": "Tallinn",
-    "longitude": "24.68519",
-    "latitude": "59.38682",
-    "openingHours": [
-      {
-        "weekday": "Monday",
-        "openMorning": "1000",
-        "closeMorning": "1200",
-        "openAfternoon": "1200",
-        "closeAfternoon": "1800"
-      },
-      {
-        "weekday": "Tuesday",
-        "openMorning": "1000",
-        "closeMorning": "1200",
-        "openAfternoon": "1200",
-        "closeAfternoon": "1800"
-      },
-      {
-        "weekday": "Wednesday",
-        "openMorning": "1000",
-        "closeMorning": "1200",
-        "openAfternoon": "1200",
-        "closeAfternoon": "1800"
-      },
-      {
-        "weekday": "Thursday",
-        "openMorning": "1000",
-        "closeMorning": "1200",
-        "openAfternoon": "1200",
-        "closeAfternoon": "1800"
-      },
-      {
-        "weekday": "Friday",
-        "openMorning": "1000",
-        "closeMorning": "1200",
-        "openAfternoon": "1200",
-        "closeAfternoon": "1800"
-      },
-      {
-        "weekday": "Saturday",
-        "openMorning": "1000",
-        "closeMorning": "1200",
-        "openAfternoon": "1200",
-        "closeAfternoon": "1500"
-      },
-      {
-        "weekday": "Sunday",
-        "openMorning": "0000",
-        "closeMorning": "0000",
-        "openAfternoon": "0000",
-        "closeAfternoon": "0000"
-      }
-    ]
-  },
-  {
     "parcelShopId": "EE10125",
     "legacyShopId": "110125",
     "parcelShopType": "ParcelShop",
@@ -128,138 +62,6 @@
         "closeMorning": "0000",
         "openAfternoon": "0000",
         "closeAfternoon": "0000"
-      }
-    ]
-  },
-  {
-    "parcelShopId": "EE10149",
-    "legacyShopId": "110149",
-    "parcelShopType": "ParcelShop",
-    "companyName": "Raudalu Konsumi Caramira",
-    "companyShortName": "Raudalu Konsumi Caramira",
-    "street": "Viljandi mnt",
-    "houseNo": "41a",
-    "addressLine2": "",
-    "countryCode": "EE",
-    "zipCode": "11218",
-    "city": "Tallinn",
-    "longitude": "24.759486",
-    "latitude": "59.366252",
-    "openingHours": [
-      {
-        "weekday": "Monday",
-        "openMorning": "1000",
-        "closeMorning": "1200",
-        "openAfternoon": "1200",
-        "closeAfternoon": "2000"
-      },
-      {
-        "weekday": "Tuesday",
-        "openMorning": "1000",
-        "closeMorning": "1200",
-        "openAfternoon": "1200",
-        "closeAfternoon": "2000"
-      },
-      {
-        "weekday": "Wednesday",
-        "openMorning": "1000",
-        "closeMorning": "1200",
-        "openAfternoon": "1200",
-        "closeAfternoon": "2000"
-      },
-      {
-        "weekday": "Thursday",
-        "openMorning": "1000",
-        "closeMorning": "1200",
-        "openAfternoon": "1200",
-        "closeAfternoon": "2000"
-      },
-      {
-        "weekday": "Friday",
-        "openMorning": "1000",
-        "closeMorning": "1200",
-        "openAfternoon": "1200",
-        "closeAfternoon": "2000"
-      },
-      {
-        "weekday": "Saturday",
-        "openMorning": "1000",
-        "closeMorning": "1200",
-        "openAfternoon": "1200",
-        "closeAfternoon": "2000"
-      },
-      {
-        "weekday": "Sunday",
-        "openMorning": "1000",
-        "closeMorning": "1200",
-        "openAfternoon": "1200",
-        "closeAfternoon": "1800"
-      }
-    ]
-  },
-  {
-    "parcelShopId": "EE10178",
-    "legacyShopId": "110178",
-    "parcelShopType": "ParcelShop",
-    "companyName": "Tartu DR Sanitaartehnika",
-    "companyShortName": "Tartu DR Sanitaartehnika",
-    "street": "Lembitu",
-    "houseNo": "6",
-    "addressLine2": "",
-    "countryCode": "EE",
-    "zipCode": "50406",
-    "city": "Tartu",
-    "longitude": "26.709703",
-    "latitude": "58.36954",
-    "openingHours": [
-      {
-        "weekday": "Monday",
-        "openMorning": "0800",
-        "closeMorning": "1200",
-        "openAfternoon": "1200",
-        "closeAfternoon": "1900"
-      },
-      {
-        "weekday": "Tuesday",
-        "openMorning": "0800",
-        "closeMorning": "1200",
-        "openAfternoon": "1200",
-        "closeAfternoon": "1900"
-      },
-      {
-        "weekday": "Wednesday",
-        "openMorning": "0800",
-        "closeMorning": "1200",
-        "openAfternoon": "1200",
-        "closeAfternoon": "1900"
-      },
-      {
-        "weekday": "Thursday",
-        "openMorning": "0800",
-        "closeMorning": "1200",
-        "openAfternoon": "1200",
-        "closeAfternoon": "1900"
-      },
-      {
-        "weekday": "Friday",
-        "openMorning": "0800",
-        "closeMorning": "1200",
-        "openAfternoon": "1200",
-        "closeAfternoon": "1900"
-      },
-      {
-        "weekday": "Saturday",
-        "openMorning": "0900",
-        "closeMorning": "1200",
-        "openAfternoon": "1200",
-        "closeAfternoon": "1600"
-      },
-      {
-        "weekday": "Sunday",
-        "openMorning": "0900",
-        "closeMorning": "1200",
-        "openAfternoon": "1200",
-        "closeAfternoon": "1500"
       }
     ]
   },
@@ -7722,6 +7524,72 @@
     ]
   },
   {
+    "parcelShopId": "EE90115",
+    "legacyShopId": "190115",
+    "parcelShopType": "PickupStation",
+    "companyName": "Automaat Riisipere Meie kauplus",
+    "companyShortName": "Automaat Riisipere Meie kauplus",
+    "street": "Metsa 2",
+    "houseNo": "",
+    "addressLine2": "Riisipere",
+    "countryCode": "EE",
+    "zipCode": "76202",
+    "city": "Riisipere",
+    "longitude": "24.312868",
+    "latitude": "59.104484",
+    "openingHours": [
+      {
+        "weekday": "Monday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Tuesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Wednesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Thursday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Friday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Saturday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Sunday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      }
+    ]
+  },
+  {
     "parcelShopId": "EE90116",
     "legacyShopId": "190116",
     "parcelShopType": "PickupStation",
@@ -8448,6 +8316,72 @@
     ]
   },
   {
+    "parcelShopId": "EE90128",
+    "legacyShopId": "190128",
+    "parcelShopType": "PickupStation",
+    "companyName": "Automaat Vaida A ja O",
+    "companyShortName": "Automaat Vaida A ja O",
+    "street": "Vana-Vaida tee 3",
+    "houseNo": "",
+    "addressLine2": "Vaida",
+    "countryCode": "EE",
+    "zipCode": "75302",
+    "city": "Vaida",
+    "longitude": "24.976345",
+    "latitude": "59.285592",
+    "openingHours": [
+      {
+        "weekday": "Monday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Tuesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Wednesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Thursday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Friday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Saturday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Sunday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      }
+    ]
+  },
+  {
     "parcelShopId": "EE90129",
     "legacyShopId": "190129",
     "parcelShopType": "PickupStation",
@@ -9055,72 +8989,6 @@
     "city": "Koeru",
     "longitude": "26.02737",
     "latitude": "58.96223",
-    "openingHours": [
-      {
-        "weekday": "Monday",
-        "openMorning": "0001",
-        "closeMorning": "1200",
-        "openAfternoon": "1200",
-        "closeAfternoon": "2359"
-      },
-      {
-        "weekday": "Tuesday",
-        "openMorning": "0001",
-        "closeMorning": "1200",
-        "openAfternoon": "1200",
-        "closeAfternoon": "2359"
-      },
-      {
-        "weekday": "Wednesday",
-        "openMorning": "0001",
-        "closeMorning": "1200",
-        "openAfternoon": "1200",
-        "closeAfternoon": "2359"
-      },
-      {
-        "weekday": "Thursday",
-        "openMorning": "0001",
-        "closeMorning": "1200",
-        "openAfternoon": "1200",
-        "closeAfternoon": "2359"
-      },
-      {
-        "weekday": "Friday",
-        "openMorning": "0001",
-        "closeMorning": "1200",
-        "openAfternoon": "1200",
-        "closeAfternoon": "2359"
-      },
-      {
-        "weekday": "Saturday",
-        "openMorning": "0001",
-        "closeMorning": "1200",
-        "openAfternoon": "1200",
-        "closeAfternoon": "2359"
-      },
-      {
-        "weekday": "Sunday",
-        "openMorning": "0001",
-        "closeMorning": "1200",
-        "openAfternoon": "1200",
-        "closeAfternoon": "2359"
-      }
-    ]
-  },
-  {
-    "parcelShopId": "EE90140",
-    "legacyShopId": "190140",
-    "parcelShopType": "PickupStation",
-    "companyName": "Automaat Aseri Grossi kauplus",
-    "companyShortName": "Automaat Aseri Grossi kauplus",
-    "street": "Tehase 23",
-    "houseNo": "",
-    "addressLine2": "Aseri",
-    "countryCode": "EE",
-    "zipCode": "43401",
-    "city": "Aseri",
-    "longitude": "26.866419",
-    "latitude": "59.449685",
     "openingHours": [
       {
         "weekday": "Monday",
@@ -18150,6 +18018,204 @@
     ]
   },
   {
+    "parcelShopId": "LT90121",
+    "legacyShopId": "290121",
+    "parcelShopType": "PickupStation",
+    "companyName": "Petrausko Express terminalas",
+    "companyShortName": "Petrausko Express terminalas",
+    "street": "K. Petrausko g. 6",
+    "houseNo": "",
+    "addressLine2": "Kaunas",
+    "countryCode": "LT",
+    "zipCode": "44149",
+    "city": "Kaunas",
+    "longitude": "23.928944",
+    "latitude": "54.908162",
+    "openingHours": [
+      {
+        "weekday": "Monday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Tuesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Wednesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Thursday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Friday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Saturday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Sunday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      }
+    ]
+  },
+  {
+    "parcelShopId": "LT90122",
+    "legacyShopId": "290122",
+    "parcelShopType": "PickupStation",
+    "companyName": "Rimi Romainiai siuntų terminalas",
+    "companyShortName": "Rimi Romainiai siuntų terminalas",
+    "street": "Romainių g. 67c",
+    "houseNo": "",
+    "addressLine2": "Kaunas",
+    "countryCode": "LT",
+    "zipCode": "47221",
+    "city": "Kaunas",
+    "longitude": "23.813115",
+    "latitude": "54.942871",
+    "openingHours": [
+      {
+        "weekday": "Monday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Tuesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Wednesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Thursday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Friday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Saturday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Sunday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      }
+    ]
+  },
+  {
+    "parcelShopId": "LT90123",
+    "legacyShopId": "290123",
+    "parcelShopType": "PickupStation",
+    "companyName": "IKI Turgus siuntų terminalas",
+    "companyShortName": "IKI Turgus siuntų terminalas",
+    "street": "Laisvės g. 5",
+    "houseNo": "",
+    "addressLine2": "Plungė",
+    "countryCode": "LT",
+    "zipCode": "90156",
+    "city": "Plungė",
+    "longitude": "21.856712",
+    "latitude": "55.908588",
+    "openingHours": [
+      {
+        "weekday": "Monday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Tuesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Wednesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Thursday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Friday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Saturday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Sunday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      }
+    ]
+  },
+  {
     "parcelShopId": "LV10006",
     "legacyShopId": "310006",
     "parcelShopType": "ParcelShop",
@@ -18344,72 +18410,6 @@
         "closeMorning": "1200",
         "openAfternoon": "1200",
         "closeAfternoon": "2359"
-      }
-    ]
-  },
-  {
-    "parcelShopId": "LV10027",
-    "legacyShopId": "310027",
-    "parcelShopType": "ParcelShop",
-    "companyName": "Paku Bode Copy Expert Merķelis",
-    "companyShortName": "Paku Bode Copy Expert Merķelis",
-    "street": "Merķeļa iela",
-    "houseNo": "17/19",
-    "addressLine2": "",
-    "countryCode": "LV",
-    "zipCode": "1050",
-    "city": "Rīga",
-    "longitude": "24.11629",
-    "latitude": "56.95143",
-    "openingHours": [
-      {
-        "weekday": "Monday",
-        "openMorning": "0900",
-        "closeMorning": "1200",
-        "openAfternoon": "1200",
-        "closeAfternoon": "1800"
-      },
-      {
-        "weekday": "Tuesday",
-        "openMorning": "0900",
-        "closeMorning": "1200",
-        "openAfternoon": "1200",
-        "closeAfternoon": "1800"
-      },
-      {
-        "weekday": "Wednesday",
-        "openMorning": "0900",
-        "closeMorning": "1200",
-        "openAfternoon": "1200",
-        "closeAfternoon": "1800"
-      },
-      {
-        "weekday": "Thursday",
-        "openMorning": "0900",
-        "closeMorning": "1200",
-        "openAfternoon": "1200",
-        "closeAfternoon": "1800"
-      },
-      {
-        "weekday": "Friday",
-        "openMorning": "0900",
-        "closeMorning": "1200",
-        "openAfternoon": "1200",
-        "closeAfternoon": "1800"
-      },
-      {
-        "weekday": "Saturday",
-        "openMorning": "0000",
-        "closeMorning": "0000",
-        "openAfternoon": "0000",
-        "closeAfternoon": "0000"
-      },
-      {
-        "weekday": "Sunday",
-        "openMorning": "0000",
-        "closeMorning": "0000",
-        "openAfternoon": "0000",
-        "closeAfternoon": "0000"
       }
     ]
   },
@@ -24373,35 +24373,35 @@
         "openMorning": "1000",
         "closeMorning": "1200",
         "openAfternoon": "1200",
-        "closeAfternoon": "1900"
+        "closeAfternoon": "1800"
       },
       {
         "weekday": "Tuesday",
         "openMorning": "1000",
         "closeMorning": "1200",
         "openAfternoon": "1200",
-        "closeAfternoon": "1900"
+        "closeAfternoon": "1800"
       },
       {
         "weekday": "Wednesday",
         "openMorning": "1000",
         "closeMorning": "1200",
         "openAfternoon": "1200",
-        "closeAfternoon": "1900"
+        "closeAfternoon": "1800"
       },
       {
         "weekday": "Thursday",
         "openMorning": "1000",
         "closeMorning": "1200",
         "openAfternoon": "1200",
-        "closeAfternoon": "1900"
+        "closeAfternoon": "1800"
       },
       {
         "weekday": "Friday",
         "openMorning": "1000",
         "closeMorning": "1200",
         "openAfternoon": "1200",
-        "closeAfternoon": "1900"
+        "closeAfternoon": "1800"
       },
       {
         "weekday": "Saturday",
@@ -32482,7 +32482,7 @@
     "addressLine2": "",
     "countryCode": "LV",
     "zipCode": "3601",
-    "city": "Venstpils",
+    "city": "Ventspils",
     "longitude": "21.54698",
     "latitude": "57.38604",
     "openingHours": [
@@ -32868,6 +32868,138 @@
     ]
   },
   {
+    "parcelShopId": "LV90121",
+    "legacyShopId": "390121",
+    "parcelShopType": "PickupStation",
+    "companyName": "Paku Skapis Elvi Vangaži",
+    "companyShortName": "Paku Skapis Elvi Vangaži",
+    "street": "Vidzemes  iela 10",
+    "houseNo": "",
+    "addressLine2": "Vangaži",
+    "countryCode": "LV",
+    "zipCode": "2136",
+    "city": "Vangaži",
+    "longitude": "24.54388",
+    "latitude": "57.09041",
+    "openingHours": [
+      {
+        "weekday": "Monday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Tuesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Wednesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Thursday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Friday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Saturday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Sunday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      }
+    ]
+  },
+  {
+    "parcelShopId": "LV90122",
+    "legacyShopId": "390122",
+    "parcelShopType": "PickupStation",
+    "companyName": "Paku Skapis RIMI Vecmīlgrāvis",
+    "companyShortName": "Paku Skapis RIMI Vecmīlgrāvis",
+    "street": "Augusta Dombrovska iela 23",
+    "houseNo": "",
+    "addressLine2": "Rīga",
+    "countryCode": "LV",
+    "zipCode": "1015",
+    "city": "Rīga",
+    "longitude": "24.10952",
+    "latitude": "57.03187",
+    "openingHours": [
+      {
+        "weekday": "Monday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Tuesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Wednesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Thursday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Friday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Saturday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Sunday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      }
+    ]
+  },
+  {
     "parcelShopId": "LV90124",
     "legacyShopId": "390124",
     "parcelShopType": "PickupStation",
@@ -32941,12 +33073,342 @@
     "companyShortName": "Paku Skapis Vītoli Kandava",
     "street": "Kūrorta iela 1",
     "houseNo": "",
-    "addressLine2": "0330571",
+    "addressLine2": "Kandava",
     "countryCode": "LV",
     "zipCode": "3120",
     "city": "Kandava",
     "longitude": "22.78061",
     "latitude": "57.03406",
+    "openingHours": [
+      {
+        "weekday": "Monday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Tuesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Wednesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Thursday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Friday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Saturday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Sunday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      }
+    ]
+  },
+  {
+    "parcelShopId": "LV90126",
+    "legacyShopId": "390126",
+    "parcelShopType": "PickupStation",
+    "companyName": "Paku Skapis Aibe Aizpute",
+    "companyShortName": "Paku Skapis Aibe Aizpute",
+    "street": "Zvaigžņu iela 2B",
+    "houseNo": "",
+    "addressLine2": "Aizpute",
+    "countryCode": "LV",
+    "zipCode": "3456",
+    "city": "Aizpute",
+    "longitude": "21.60632",
+    "latitude": "56.72041",
+    "openingHours": [
+      {
+        "weekday": "Monday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Tuesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Wednesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Thursday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Friday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Saturday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Sunday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      }
+    ]
+  },
+  {
+    "parcelShopId": "LV90127",
+    "legacyShopId": "390127",
+    "parcelShopType": "PickupStation",
+    "companyName": "Paku Skapis Rimi Mini Ezerkrasts",
+    "companyShortName": "Paku Skapis Rimi Mini Ezerkrasts",
+    "street": "Ganību iela 175/177",
+    "houseNo": "",
+    "addressLine2": "Liepāja",
+    "countryCode": "LV",
+    "zipCode": "3407",
+    "city": "Liepāja",
+    "longitude": "21.01685",
+    "latitude": "56.4866",
+    "openingHours": [
+      {
+        "weekday": "Monday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Tuesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Wednesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Thursday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Friday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Saturday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Sunday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      }
+    ]
+  },
+  {
+    "parcelShopId": "LV90128",
+    "legacyShopId": "390128",
+    "parcelShopType": "PickupStation",
+    "companyName": "Paku Skapis Brīvības 78",
+    "companyShortName": "Paku Skapis Brīvības 78",
+    "street": "Stāvvieta Brīvības iela 78",
+    "houseNo": "",
+    "addressLine2": "Rīga",
+    "countryCode": "LV",
+    "zipCode": "1001",
+    "city": "Rīga",
+    "longitude": "24.12557",
+    "latitude": "56.95879",
+    "openingHours": [
+      {
+        "weekday": "Monday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Tuesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Wednesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Thursday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Friday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Saturday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Sunday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      }
+    ]
+  },
+  {
+    "parcelShopId": "LV90129",
+    "legacyShopId": "390129",
+    "parcelShopType": "PickupStation",
+    "companyName": "Paku Skapis Maxima X Parādes",
+    "companyShortName": "Paku Skapis Maxima X Parādes",
+    "street": "Parādes iela 8",
+    "houseNo": "",
+    "addressLine2": "Rīga",
+    "countryCode": "LV",
+    "zipCode": "1016",
+    "city": "Rīga",
+    "longitude": "24.02686",
+    "latitude": "57.04094",
+    "openingHours": [
+      {
+        "weekday": "Monday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Tuesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Wednesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Thursday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Friday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Saturday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Sunday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      }
+    ]
+  },
+  {
+    "parcelShopId": "LV90130",
+    "legacyShopId": "390130",
+    "parcelShopType": "PickupStation",
+    "companyName": "Paku Skapis TC Rīga Plaza",
+    "companyShortName": "Paku Skapis TC Rīga Plaza",
+    "street": "Mūkusalas iela 71",
+    "houseNo": "",
+    "addressLine2": "Rīga",
+    "countryCode": "LV",
+    "zipCode": "1004",
+    "city": "Rīga",
+    "longitude": "24.10203",
+    "latitude": "56.92654",
     "openingHours": [
       {
         "weekday": "Monday",
