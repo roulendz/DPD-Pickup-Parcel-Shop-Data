@@ -5679,8 +5679,8 @@
     "parcelShopId": "EE90087",
     "legacyShopId": "190087",
     "parcelShopType": "PickupStation",
-    "companyName": "Automaat Tallinna Vilde tee Maxima",
-    "companyShortName": "Automaat Tallinna Vilde tee Maxima",
+    "companyName": "Automaat Tallinna Vilde Maxima XX",
+    "companyShortName": "Automaat Tallinna Vilde Maxima XX",
     "street": "E. Vilde tee 75/77",
     "houseNo": "",
     "addressLine2": "Tallinn",
@@ -6805,10 +6805,10 @@
     "companyShortName": "Automaat DPD Eesti peakontor",
     "street": "Taevavärava tee 1",
     "houseNo": "",
-    "addressLine2": "Lehmja",
+    "addressLine2": "Jüri",
     "countryCode": "EE",
     "zipCode": "75306",
-    "city": "Lehmja",
+    "city": "Jüri",
     "longitude": "24.897845",
     "latitude": "59.36534",
     "openingHours": [
@@ -12883,6 +12883,270 @@
     "city": "Tallinn",
     "longitude": "24.87431",
     "latitude": "59.44184",
+    "openingHours": [
+      {
+        "weekday": "Monday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Tuesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Wednesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Thursday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Friday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Saturday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Sunday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      }
+    ]
+  },
+  {
+    "parcelShopId": "EE90198",
+    "legacyShopId": "190198",
+    "parcelShopType": "PickupStation",
+    "companyName": "Automaat Rapla Jaama Hepa",
+    "companyShortName": "Automaat Rapla Jaama Hepa",
+    "street": "Viljandi mnt 124",
+    "houseNo": "",
+    "addressLine2": "Rapla",
+    "countryCode": "EE",
+    "zipCode": "79514",
+    "city": "Rapla",
+    "longitude": "24.83409",
+    "latitude": "58.99061",
+    "openingHours": [
+      {
+        "weekday": "Monday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Tuesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Wednesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Thursday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Friday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Saturday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Sunday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      }
+    ]
+  },
+  {
+    "parcelShopId": "EE90199",
+    "legacyShopId": "190199",
+    "parcelShopType": "PickupStation",
+    "companyName": "Automaat Tallinna Kotka Selver",
+    "companyShortName": "Automaat Tallinna Kotka Selver",
+    "street": "Kotka 12",
+    "houseNo": "",
+    "addressLine2": "Tallinn",
+    "countryCode": "EE",
+    "zipCode": "11315",
+    "city": "Tallinn",
+    "longitude": "24.72842",
+    "latitude": "59.42039",
+    "openingHours": [
+      {
+        "weekday": "Monday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Tuesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Wednesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Thursday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Friday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Saturday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Sunday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      }
+    ]
+  },
+  {
+    "parcelShopId": "EE90200",
+    "legacyShopId": "190200",
+    "parcelShopType": "PickupStation",
+    "companyName": "Automaat Tallinna Ristiku Selver",
+    "companyShortName": "Automaat Tallinna Ristiku Selver",
+    "street": "Telliskivi 24",
+    "houseNo": "",
+    "addressLine2": "Tallinn",
+    "countryCode": "EE",
+    "zipCode": "10611",
+    "city": "Tallinn",
+    "longitude": "24.72072",
+    "latitude": "59.43579",
+    "openingHours": [
+      {
+        "weekday": "Monday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Tuesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Wednesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Thursday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Friday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Saturday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Sunday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      }
+    ]
+  },
+  {
+    "parcelShopId": "EE90201",
+    "legacyShopId": "190201",
+    "parcelShopType": "PickupStation",
+    "companyName": "Automaat Laulasmaa Selver ABC",
+    "companyShortName": "Automaat Laulasmaa Selver ABC",
+    "street": "Kloogaranna tee 26",
+    "houseNo": "",
+    "addressLine2": "Laulasmaa",
+    "countryCode": "EE",
+    "zipCode": "76702",
+    "city": "Laulasmaa",
+    "longitude": "24.23854",
+    "latitude": "59.37876",
     "openingHours": [
       {
         "weekday": "Monday",
@@ -25674,6 +25938,1194 @@
     ]
   },
   {
+    "parcelShopId": "LT90193",
+    "legacyShopId": "290193",
+    "parcelShopType": "PickupStation",
+    "companyName": "Indritus DPD paštomatas",
+    "companyShortName": "Indritus DPD paštomatas",
+    "street": "Laisvės a. 21",
+    "houseNo": "",
+    "addressLine2": "Šiauliai",
+    "countryCode": "LT",
+    "zipCode": "82224",
+    "city": "Šeduva",
+    "longitude": "23.758267",
+    "latitude": "55.754286",
+    "openingHours": [
+      {
+        "weekday": "Monday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Tuesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Wednesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Thursday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Friday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Saturday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Sunday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      }
+    ]
+  },
+  {
+    "parcelShopId": "LT90194",
+    "legacyShopId": "290194",
+    "parcelShopType": "PickupStation",
+    "companyName": "Taikos Norfa DPD paštomatas",
+    "companyShortName": "Taikos Norfa DPD paštomatas",
+    "street": "Taikos g. 9",
+    "houseNo": "",
+    "addressLine2": "Radviliškis",
+    "countryCode": "LT",
+    "zipCode": "82128",
+    "city": "Radviliškis",
+    "longitude": "23.562916",
+    "latitude": "55.800645",
+    "openingHours": [
+      {
+        "weekday": "Monday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Tuesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Wednesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Thursday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Friday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Saturday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Sunday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      }
+    ]
+  },
+  {
+    "parcelShopId": "LT90195",
+    "legacyShopId": "290195",
+    "parcelShopType": "PickupStation",
+    "companyName": "Taikos IKI DPD paštomatas",
+    "companyShortName": "Taikos IKI DPD paštomatas",
+    "street": "Taikos pr. 81",
+    "houseNo": "",
+    "addressLine2": "Kaunas",
+    "countryCode": "LT",
+    "zipCode": "50438",
+    "city": "Kaunas",
+    "longitude": "23.969701",
+    "latitude": "54.912324",
+    "openingHours": [
+      {
+        "weekday": "Monday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Tuesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Wednesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Thursday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Friday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Saturday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Sunday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      }
+    ]
+  },
+  {
+    "parcelShopId": "LT90196",
+    "legacyShopId": "290196",
+    "parcelShopType": "PickupStation",
+    "companyName": "Kavoliuko Norfa DPD paštomatas",
+    "companyShortName": "Kavoliuko Norfa DPD paštomatas",
+    "street": "A. P. Kavoliuko g. 6",
+    "houseNo": "",
+    "addressLine2": "Vilnius",
+    "countryCode": "LT",
+    "zipCode": "04326",
+    "city": "Vilnius",
+    "longitude": "25.211177",
+    "latitude": "54.697668",
+    "openingHours": [
+      {
+        "weekday": "Monday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Tuesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Wednesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Thursday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Friday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Saturday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Sunday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      }
+    ]
+  },
+  {
+    "parcelShopId": "LT90197",
+    "legacyShopId": "290197",
+    "parcelShopType": "PickupStation",
+    "companyName": "Kaišiadorių Norfa DPD paštomatas",
+    "companyShortName": "Kaišiadorių Norfa DPD paštomatas",
+    "street": "Gedimino g. 140",
+    "houseNo": "",
+    "addressLine2": "Kaišiadorys",
+    "countryCode": "LT",
+    "zipCode": "56167",
+    "city": "Kaišiadorys",
+    "longitude": "24.433191",
+    "latitude": "54.852764",
+    "openingHours": [
+      {
+        "weekday": "Monday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Tuesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Wednesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Thursday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Friday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Saturday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Sunday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      }
+    ]
+  },
+  {
+    "parcelShopId": "LT90198",
+    "legacyShopId": "290198",
+    "parcelShopType": "PickupStation",
+    "companyName": "Vievio Norfa DPD paštomatas",
+    "companyShortName": "Vievio Norfa DPD paštomatas",
+    "street": "Šviesos skg. 2",
+    "houseNo": "",
+    "addressLine2": "Vievis",
+    "countryCode": "LT",
+    "zipCode": "21375",
+    "city": "Vievis",
+    "longitude": "24.808658",
+    "latitude": "54.771436",
+    "openingHours": [
+      {
+        "weekday": "Monday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Tuesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Wednesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Thursday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Friday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Saturday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Sunday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      }
+    ]
+  },
+  {
+    "parcelShopId": "LT90199",
+    "legacyShopId": "290199",
+    "parcelShopType": "PickupStation",
+    "companyName": "Nemenčinės Norfa DPD paštomatas",
+    "companyShortName": "Nemenčinės Norfa DPD paštomatas",
+    "street": "Vilijos g. 2",
+    "houseNo": "",
+    "addressLine2": "Nemenčinė",
+    "countryCode": "LT",
+    "zipCode": "15174",
+    "city": "Nemenčinė",
+    "longitude": "25.459618",
+    "latitude": "54.844798",
+    "openingHours": [
+      {
+        "weekday": "Monday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Tuesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Wednesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Thursday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Friday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Saturday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Sunday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      }
+    ]
+  },
+  {
+    "parcelShopId": "LT90200",
+    "legacyShopId": "290200",
+    "parcelShopType": "PickupStation",
+    "companyName": "Avižienių Maxima DPD paštomatas",
+    "companyShortName": "Avižienių Maxima DPD paštomatas",
+    "street": "Saulės g. 1",
+    "houseNo": "",
+    "addressLine2": "Avižieniai",
+    "countryCode": "LT",
+    "zipCode": "14184",
+    "city": "Avižieniai",
+    "longitude": "25.193727",
+    "latitude": "54.763924",
+    "openingHours": [
+      {
+        "weekday": "Monday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Tuesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Wednesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Thursday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Friday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Saturday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Sunday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      }
+    ]
+  },
+  {
+    "parcelShopId": "LT90201",
+    "legacyShopId": "290201",
+    "parcelShopType": "PickupStation",
+    "companyName": "Noreikiškių Šilas DPD paštomatas",
+    "companyShortName": "Noreikiškių Šilas DPD paštomatas",
+    "street": "Šiltnamių g. 19, Noreikiškės",
+    "houseNo": "",
+    "addressLine2": "Kaunas",
+    "countryCode": "LT",
+    "zipCode": "53363",
+    "city": "Kaunas",
+    "longitude": "23.853373",
+    "latitude": "54.890331",
+    "openingHours": [
+      {
+        "weekday": "Monday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Tuesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Wednesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Thursday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Friday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Saturday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Sunday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      }
+    ]
+  },
+  {
+    "parcelShopId": "LT90202",
+    "legacyShopId": "290202",
+    "parcelShopType": "PickupStation",
+    "companyName": "S. Neries Maxima DPD paštomatas",
+    "companyShortName": "S. Neries Maxima DPD paštomatas",
+    "street": "S. Neries g. 4",
+    "houseNo": "",
+    "addressLine2": "Vilkaviškis",
+    "countryCode": "LT",
+    "zipCode": "70163",
+    "city": "Vilkaviškis",
+    "longitude": "23.036909",
+    "latitude": "54.653978",
+    "openingHours": [
+      {
+        "weekday": "Monday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Tuesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Wednesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Thursday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Friday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Saturday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Sunday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      }
+    ]
+  },
+  {
+    "parcelShopId": "LT90203",
+    "legacyShopId": "290203",
+    "parcelShopType": "PickupStation",
+    "companyName": "Kalnėnų Maxima DPD paštomatas",
+    "companyShortName": "Kalnėnų Maxima DPD paštomatas",
+    "street": "Moravų g. 7",
+    "houseNo": "",
+    "addressLine2": "Vilnius",
+    "countryCode": "LT",
+    "zipCode": "11307",
+    "city": "Vilnius",
+    "longitude": "25.323934",
+    "latitude": "54.650368",
+    "openingHours": [
+      {
+        "weekday": "Monday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Tuesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Wednesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Thursday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Friday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Saturday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Sunday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      }
+    ]
+  },
+  {
+    "parcelShopId": "LT90204",
+    "legacyShopId": "290204",
+    "parcelShopType": "PickupStation",
+    "companyName": "Tiškevičiaus Maxima DPD paštomatas",
+    "companyShortName": "Tiškevičiaus Maxima DPD paštomatas",
+    "street": "J. Tiškevičiaus g. 22",
+    "houseNo": "",
+    "addressLine2": "Vilnius",
+    "countryCode": "LT",
+    "zipCode": "02231",
+    "city": "Vilnius",
+    "longitude": "25.109855",
+    "latitude": "54.623988",
+    "openingHours": [
+      {
+        "weekday": "Monday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Tuesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Wednesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Thursday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Friday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Saturday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Sunday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      }
+    ]
+  },
+  {
+    "parcelShopId": "LT90205",
+    "legacyShopId": "290205",
+    "parcelShopType": "PickupStation",
+    "companyName": "Vytauto g. Maxima paštomatas",
+    "companyShortName": "Vytauto g. Maxima paštomatas",
+    "street": "Vytauto g. 4C",
+    "houseNo": "",
+    "addressLine2": "Lentvaris",
+    "countryCode": "LT",
+    "zipCode": "25108",
+    "city": "Lentvaris",
+    "longitude": "25.046624",
+    "latitude": "54.654845",
+    "openingHours": [
+      {
+        "weekday": "Monday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Tuesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Wednesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Thursday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Friday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Saturday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Sunday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      }
+    ]
+  },
+  {
+    "parcelShopId": "LT90206",
+    "legacyShopId": "290206",
+    "parcelShopType": "PickupStation",
+    "companyName": "Galgių Maxima DPD paštomatas",
+    "companyShortName": "Galgių Maxima DPD paštomatas",
+    "street": "Centrinė g. 36",
+    "houseNo": "",
+    "addressLine2": "Vilnius",
+    "countryCode": "LT",
+    "zipCode": "13104",
+    "city": "Galgiai",
+    "longitude": "25.411506",
+    "latitude": "54.720379",
+    "openingHours": [
+      {
+        "weekday": "Monday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Tuesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Wednesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Thursday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Friday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Saturday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Sunday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      }
+    ]
+  },
+  {
+    "parcelShopId": "LT90207",
+    "legacyShopId": "290207",
+    "parcelShopType": "PickupStation",
+    "companyName": "Kudirkos Norfa DPD paštomatas",
+    "companyShortName": "Kudirkos Norfa DPD paštomatas",
+    "street": "V. Kudirkos g. 91",
+    "houseNo": "",
+    "addressLine2": "",
+    "countryCode": "LT",
+    "zipCode": "71121",
+    "city": "Šakiai",
+    "longitude": "23.057698",
+    "latitude": "54.953954",
+    "openingHours": [
+      {
+        "weekday": "Monday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Tuesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Wednesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Thursday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Friday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Saturday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Sunday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      }
+    ]
+  },
+  {
+    "parcelShopId": "LT90208",
+    "legacyShopId": "290208",
+    "parcelShopType": "PickupStation",
+    "companyName": "Ginkūnų Maxima DPD paštomatas",
+    "companyShortName": "Ginkūnų Maxima DPD paštomatas",
+    "street": "Rasos g. 1",
+    "houseNo": "",
+    "addressLine2": "Šiauliai",
+    "countryCode": "LT",
+    "zipCode": "81494",
+    "city": "Ginkūnai",
+    "longitude": "23.355272",
+    "latitude": "55.952295",
+    "openingHours": [
+      {
+        "weekday": "Monday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Tuesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Wednesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Thursday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Friday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Saturday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Sunday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      }
+    ]
+  },
+  {
+    "parcelShopId": "LT90209",
+    "legacyShopId": "290209",
+    "parcelShopType": "PickupStation",
+    "companyName": "Ventos Norfa DPD paštomatas",
+    "companyShortName": "Ventos Norfa DPD paštomatas",
+    "street": "Plento g. 2A",
+    "houseNo": "",
+    "addressLine2": "Venta",
+    "countryCode": "LT",
+    "zipCode": "85329",
+    "city": "Venta",
+    "longitude": "22.679319",
+    "latitude": "56.193123",
+    "openingHours": [
+      {
+        "weekday": "Monday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Tuesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Wednesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Thursday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Friday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Saturday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Sunday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      }
+    ]
+  },
+  {
+    "parcelShopId": "LT90210",
+    "legacyShopId": "290210",
+    "parcelShopType": "PickupStation",
+    "companyName": "Krėvės Maxima DPD paštomatas",
+    "companyShortName": "Krėvės Maxima DPD paštomatas",
+    "street": "Krėvės per. 108",
+    "houseNo": "",
+    "addressLine2": "Kaunas",
+    "countryCode": "LT",
+    "zipCode": "50381",
+    "city": "Kaunas",
+    "longitude": "23.994093",
+    "latitude": "54.924954",
+    "openingHours": [
+      {
+        "weekday": "Monday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Tuesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Wednesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Thursday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Friday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Saturday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Sunday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      }
+    ]
+  },
+  {
     "parcelShopId": "LV10006",
     "legacyShopId": "310006",
     "parcelShopType": "ParcelShop",
@@ -32472,6 +33924,72 @@
     ]
   },
   {
+    "parcelShopId": "LV10237",
+    "legacyShopId": "310237",
+    "parcelShopType": "ParcelShop",
+    "companyName": "Paku Bode VIADA Liepāja1",
+    "companyShortName": "Paku Bode VIADA Liepāja1",
+    "street": "Krūmu iela",
+    "houseNo": "56",
+    "addressLine2": "",
+    "countryCode": "LV",
+    "zipCode": "3405",
+    "city": "Liepāja",
+    "longitude": "21.01062",
+    "latitude": "56.53431",
+    "openingHours": [
+      {
+        "weekday": "Monday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Tuesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Wednesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Thursday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Friday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Saturday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Sunday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      }
+    ]
+  },
+  {
     "parcelShopId": "LV10239",
     "legacyShopId": "310239",
     "parcelShopType": "ParcelShop",
@@ -36567,16 +38085,16 @@
     "parcelShopId": "LV90059",
     "legacyShopId": "390059",
     "parcelShopType": "PickupStation",
-    "companyName": "Paku Skapis Rimi Iļģuciems",
-    "companyShortName": "Paku Skapis Rimi Iļģuciems",
-    "street": "Dzirciema iela 42",
+    "companyName": "Paku Skapis Circle K Iļģuciems",
+    "companyShortName": "Paku Skapis Circle K Iļģuciems",
+    "street": "Dzirciema iela 40",
     "houseNo": "",
     "addressLine2": "Rīga",
     "countryCode": "LV",
     "zipCode": "1007",
     "city": "Rīga",
-    "longitude": "24.05102",
-    "latitude": "56.95948",
+    "longitude": "24.052697",
+    "latitude": "56.958488",
     "openingHours": [
       {
         "weekday": "Monday",
@@ -43631,7 +45149,7 @@
     "parcelShopType": "PickupStation",
     "companyName": "Paku Skapis DUS Circle K Valmiera-1",
     "companyShortName": "Paku Skapis DUS Circle K Valmiera-1",
-    "street": "Stacijas 29",
+    "street": "Stacijas iela 29",
     "houseNo": "",
     "addressLine2": "Valmiera",
     "countryCode": "LV",
@@ -44088,6 +45606,72 @@
     ]
   },
   {
+    "parcelShopId": "LV90173",
+    "legacyShopId": "390173",
+    "parcelShopType": "PickupStation",
+    "companyName": "Paku Skapis Raiņa 5 Auce",
+    "companyShortName": "Paku Skapis Raiņa 5 Auce",
+    "street": "Raiņa iela 5",
+    "houseNo": "",
+    "addressLine2": "Auce",
+    "countryCode": "LV",
+    "zipCode": "3708",
+    "city": "Auce",
+    "longitude": "22.89349",
+    "latitude": "56.46476",
+    "openingHours": [
+      {
+        "weekday": "Monday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Tuesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Wednesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Thursday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Friday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Saturday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Sunday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      }
+    ]
+  },
+  {
     "parcelShopId": "LV90174",
     "legacyShopId": "390174",
     "parcelShopType": "PickupStation",
@@ -44299,6 +45883,402 @@
     "city": "Garkalne",
     "longitude": "24.40902",
     "latitude": "57.04277",
+    "openingHours": [
+      {
+        "weekday": "Monday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Tuesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Wednesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Thursday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Friday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Saturday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Sunday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      }
+    ]
+  },
+  {
+    "parcelShopId": "LV90178",
+    "legacyShopId": "390178",
+    "parcelShopType": "PickupStation",
+    "companyName": "Paku Skapis Circle K Imanta",
+    "companyShortName": "Paku Skapis Circle K Imanta",
+    "street": "Anniņmuižas bulvāris 25A,",
+    "houseNo": "",
+    "addressLine2": "Rīga",
+    "countryCode": "LV",
+    "zipCode": "1067",
+    "city": "Rīga",
+    "longitude": "24.01824",
+    "latitude": "56.95947",
+    "openingHours": [
+      {
+        "weekday": "Monday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Tuesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Wednesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Thursday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Friday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Saturday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Sunday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      }
+    ]
+  },
+  {
+    "parcelShopId": "LV90179",
+    "legacyShopId": "390179",
+    "parcelShopType": "PickupStation",
+    "companyName": "Paku Skapis Mego Ogre",
+    "companyShortName": "Paku Skapis Mego Ogre",
+    "street": "Skolas iela 4",
+    "houseNo": "",
+    "addressLine2": "Ogre",
+    "countryCode": "LV",
+    "zipCode": "5001",
+    "city": "Ogre",
+    "longitude": "24.59896",
+    "latitude": "56.81626",
+    "openingHours": [
+      {
+        "weekday": "Monday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Tuesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Wednesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Thursday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Friday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Saturday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Sunday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      }
+    ]
+  },
+  {
+    "parcelShopId": "LV90180",
+    "legacyShopId": "390180",
+    "parcelShopType": "PickupStation",
+    "companyName": "Paku Skapis Maxima X Ogre",
+    "companyShortName": "Paku Skapis Maxima X Ogre",
+    "street": "Vidus prospekts 1",
+    "houseNo": "",
+    "addressLine2": "Ogre",
+    "countryCode": "LV",
+    "zipCode": "5001",
+    "city": "Ogre",
+    "longitude": "24.59252",
+    "latitude": "56.81985",
+    "openingHours": [
+      {
+        "weekday": "Monday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Tuesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Wednesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Thursday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Friday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Saturday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Sunday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      }
+    ]
+  },
+  {
+    "parcelShopId": "LV90181",
+    "legacyShopId": "390181",
+    "parcelShopType": "PickupStation",
+    "companyName": "Paku Skapis Elvi Babīte",
+    "companyShortName": "Paku Skapis Elvi Babīte",
+    "street": "Liepu aleja 15a",
+    "houseNo": "",
+    "addressLine2": "Babīte",
+    "countryCode": "LV",
+    "zipCode": "2101",
+    "city": "Babīte",
+    "longitude": "23.94852",
+    "latitude": "56.95621",
+    "openingHours": [
+      {
+        "weekday": "Monday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Tuesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Wednesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Thursday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Friday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Saturday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Sunday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      }
+    ]
+  },
+  {
+    "parcelShopId": "LV90182",
+    "legacyShopId": "390182",
+    "parcelShopType": "PickupStation",
+    "companyName": "Paku Skapis Maxima X O. Kalpaka",
+    "companyShortName": "Paku Skapis Maxima X O. Kalpaka",
+    "street": "Oskara Kalpaka iela 74",
+    "houseNo": "",
+    "addressLine2": "",
+    "countryCode": "LV",
+    "zipCode": "3405",
+    "city": "Liepāja",
+    "longitude": "21.00327",
+    "latitude": "56.53345",
+    "openingHours": [
+      {
+        "weekday": "Monday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Tuesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Wednesday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Thursday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Friday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Saturday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      },
+      {
+        "weekday": "Sunday",
+        "openMorning": "0001",
+        "closeMorning": "1200",
+        "openAfternoon": "1200",
+        "closeAfternoon": "2359"
+      }
+    ]
+  },
+  {
+    "parcelShopId": "LV90183",
+    "legacyShopId": "390183",
+    "parcelShopType": "PickupStation",
+    "companyName": "Paku Skapis Mego Saharova 2",
+    "companyShortName": "Paku Skapis Mego Saharova 2",
+    "street": "Andreja Saharova iela 2",
+    "houseNo": "",
+    "addressLine2": "Rīga",
+    "countryCode": "LV",
+    "zipCode": "1021",
+    "city": "Rīga",
+    "longitude": "24.20272",
+    "latitude": "56.93303",
     "openingHours": [
       {
         "weekday": "Monday",
